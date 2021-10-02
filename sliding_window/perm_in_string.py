@@ -9,7 +9,7 @@ for that character is met. Increment the number of matches by 1.
 Now, each time check if number of matches equals number of elements in hashmap. If yes, return True
 
 Whenever the number of elements in the window greater than length of pattern string, there are two things to consider. 
-1. If the character is in lookup and the count is zero, that means, it contributed to the number of matches. So reverse that effect by incrementing the matches. 
+1. If the character is in lookup and the count is zero, that means, it contributed to the number of matches. So reverse that effect by decrementing the matches. 
 2. Increment the count in the hashmap by one as well. 
 
 """
