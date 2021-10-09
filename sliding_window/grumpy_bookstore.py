@@ -11,6 +11,7 @@ Now to find the max sum subarray with width minutes, and add it to the previous 
 
 While doing it, remember to consider only of customers that have come when the owner is grumpy.
 
+Idea is from leetcode discussion
 """
 from typing import List
 
