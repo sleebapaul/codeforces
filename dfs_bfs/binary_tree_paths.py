@@ -9,7 +9,7 @@ Here it is checking the node. There it will be checking if the target of the sea
 
 """
 
-from typing import Optional
+from typing import Optional, List
 
 # Definition for a binary tree node.
 class TreeNode:

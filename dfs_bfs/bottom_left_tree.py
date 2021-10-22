@@ -3,7 +3,7 @@ Leetcode 513. Find Bottom Left Tree Value
 
 Finding the left most value is last row is pretty straight forward.
 
-Do BFS. Stop on last levelt. Get the first element 
+Do BFS. Stop on last level. Get the first element 
 
 It is a useful pattern in BFS problems. Keeping track of next_level and current_level
 

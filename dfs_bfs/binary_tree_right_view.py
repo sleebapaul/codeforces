@@ -1,6 +1,5 @@
 """
-Leetcode 199: Binary tree right side view
-
+Leetcode 199 : Binary tree right side view
 
 Here the first idea that came to my mind was traverse to right of the tree, if no right node, take left node and go on. 
 This should give the right most path in the tree.
